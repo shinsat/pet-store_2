@@ -1,0 +1,5 @@
+2016-04-17 16:11:08,479 [INFO] from play.core.server.NettyServer in pool-4-thread-1 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-04-17 16:11:30,644 [WARN] from com.jolbox.bonecp.BoneCPConfig in ForkJoinPool-1-worker-1 - JDBC username was not set in config!
+2016-04-17 16:11:30,646 [WARN] from com.jolbox.bonecp.BoneCPConfig in ForkJoinPool-1-worker-1 - JDBC password was not set in config!
+2016-04-17 16:11:30,992 [INFO] from play.api.db.DefaultDBApi in ForkJoinPool-1-worker-1 - Database [default] connected at jdbc:h2:./data
+2016-04-17 16:11:32,719 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
